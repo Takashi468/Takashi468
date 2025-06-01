@@ -1,36 +1,50 @@
 ## 🧙‍♂️ Hi, I'm Takashi468
 
-I'm a Junior full-st(b)ack(end) Developer & IT Service professional from Thailand. Passionate about backend development, IT services, and building applications that make work easier. Currently working in R&D & Full Stack at a software house, exploring IoT, Windows App development, and Deep Learning. 🚀
+I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand. 
+
+🚀 I'm passionate about building efficient backend systems, exploring cutting-edge technologies, and solving real-world problems through code. With a strong background in IT Service and hands-on experience in software R&D, I specialize in backend development, system integration, and rapid prototyping involving:
 
 <img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
+- 🧠 **Deep Learning** (Jetson, PyTorch, YOLOv8)  
+- 📟 **IoT / Embedded Systems** (Serial, Sensor integration, LVGL)  
+- 🖥️ **Windows Applications** (WPF, XAML, thermal printers)  
+- ⚙️ **System & API Design** (Rust, Python, NestJS)  
+- 🐳 **Cloud & Container** (Docker, Jetson performance tuning)  
 
 ###
+Currently working at a software house, I spend my time building smart kiosk systems, crafting developer tools, and researching practical AI/IoT applications for daily use. Whether it's handling queue printing, optimizing inference models, or tweaking UI states — I love tackling challenges from low-level hardware to high-level services.
 
-<div align="left">
-  <a href="mailto:rust.takashi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+## 🛠️ Tech Stack
 
+**Languages:**  
+- Rust  
+- Python  
+- JavaScript / TypeScript  
+- C#  
+- SQL  
 
-###
+**Frameworks & Tools:**  
+- NestJS, FastAPI  
+- WPF, LVGL  
+- React Native, .NET  
+- Docker, Git  
+- PostgreSQL, MQTT  
+- OpenCV, Jetson SDK  
+
+---
+
+## 💼 Currently Exploring
+
+- 🧪 Building native Rust modules for performance-sensitive tasks  
+- 🎮 Integrating LVGL UI in IoT devices with touchscreen  
+- 🤖 Real-time image detection on edge devices using YOLOv8  
+
+---
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:rust.takashi@gmail.com)
+
