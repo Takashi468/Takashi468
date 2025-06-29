@@ -31,10 +31,10 @@ Focus areas include:
 **Frameworks & Tools:**  
 - FastAPI  
 - WPF, LVGL  
-- React Native, .NET  
+- .NET  
 - Git  
-- PostgreSQL, MQTT  
-- OpenCV, Jetson SDK  
+- PostgreSQL
+- OpenCV
 
 ---
 
