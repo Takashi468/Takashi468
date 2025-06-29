@@ -2,7 +2,7 @@
 
 I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand. 
 
-🚀 I'm passionate about building efficient backend systems, exploring cutting-edge technologies, and solving real-world problems through code. With a strong background in IT Service and hands-on experience in software R&D, I specialize in backend development, system integration, and rapid prototyping involving:
+🚀 I build things from **low-level hardware** to **high-level backend systems**, and I love solving real-world problems with clean, efficient code.
 
 <img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif"  />
 
@@ -11,26 +11,28 @@ I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand.
 - 🧠 **Deep Learning** (Jetson, PyTorch, YOLOv8)  
 - 📟 **IoT / Embedded Systems** (Serial, Sensor integration, LVGL)  
 - 🖥️ **Windows Applications** (WPF, XAML, thermal printers)  
-- ⚙️ **System & API Design** (Rust, Python, NestJS)  
-- 🐳 **Cloud & Container** (Docker, Jetson performance tuning)  
-
+- ⚙️ **System & API Design** (Rust, Python)  
 ###
-Currently working at a software house, I spend my time building smart kiosk systems, crafting developer tools, and researching practical AI/IoT applications for daily use. Whether it's handling queue printing, optimizing inference models, or tweaking UI states — I love tackling challenges from low-level hardware to high-level services.
-
+Currently working at a software house in Thailand.  
+Focus areas include:
+- 🏪 Smart Kiosk Systems (WPF + Thai Smart Card + API integration)  
+- 🧰 Internal Developer Tools (Beacon config, device provisioning)  
+- 🤖 AI/IoT Prototyping (YOLOv8 on edge, MQTT, serial comms, queue automation)
+- 
 ## 🛠️ Tech Stack
 
 **Languages:**  
 - Rust  
 - Python  
-- JavaScript / TypeScript  
+- JavaScript
 - C#  
 - SQL  
 
 **Frameworks & Tools:**  
-- NestJS, FastAPI  
+- FastAPI  
 - WPF, LVGL  
 - React Native, .NET  
-- Docker, Git  
+- Git  
 - PostgreSQL, MQTT  
 - OpenCV, Jetson SDK  
 
