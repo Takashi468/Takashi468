@@ -18,7 +18,7 @@ Focus areas include:
 - 🏪 Smart Kiosk Systems (WPF + Thai Smart Card + API integration)  
 - 🧰 Internal Developer Tools (Beacon config, device provisioning)  
 - 🤖 AI/IoT Prototyping (YOLOv8 on edge, MQTT, serial comms, queue automation)
-- 
+
 ## 🛠️ Tech Stack
 
 **Languages:**  
