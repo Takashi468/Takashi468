@@ -1,52 +1,59 @@
 ## 🧙‍♂️ Hi, I'm Takashi468
 
-I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand. 
+I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand.
 
-🚀 I build things from **low-level hardware** to **high-level backend systems**, and I love solving real-world problems with clean, efficient code.
+🚀 I build cross-platform desktop apps, backend services, and internal tools — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Windows integrations**.
 
-<img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif" />
 
 ###
 
-- 🧠 **Deep Learning** (Jetson, PyTorch, YOLOv8)  
-- 📟 **IoT / Embedded Systems** (Serial, Sensor integration, LVGL)  
-- 🖥️ **Windows Applications** (WPF, XAML, thermal printers)  
-- ⚙️ **System & API Design** (Rust, Python)  
-###
-Currently working at a software house in Thailand.  
-Focus areas include:
-- 🏪 Smart Kiosk Systems (WPF + Thai Smart Card + API integration)  
-- 🧰 Internal Developer Tools (Beacon config, device provisioning)  
-- 🤖 AI/IoT Prototyping (YOLOv8 on edge, MQTT, serial comms, queue automation)
+- 🦀 **Rust + Tauri Desktop Apps** (offline-first, secure, cross-platform)  
+- 🌐 **Backend & API Design** (Rust/Axum, Python/FastAPI)  
+- 🖥️ **Windows Applications** (WPF, XAML, device integration, smart card)  
+- 🐧 **Linux/Ubuntu Development** (services, automation scripts, kiosk systems)  
+- 🧩 **System Integration** (serial devices, smart card readers, printers)  
+
+---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
 - Rust  
 - Python  
-- JavaScript
+- JavaScript  
 - C#  
 - SQL  
 
 **Frameworks & Tools:**  
-- FastAPI  
-- WPF, LVGL  
-- .NET  
+- Tauri (Rust)  
+- Axum / FastAPI  
+- WPF (.NET)  
+- PostgreSQL  
+- Linux/Ubuntu
 - Git  
-- PostgreSQL
-- OpenCV
 
 ---
 
-## 💼 Currently Exploring
+## 💼 What I Work On
 
-- 🧪 Building native Rust modules for performance-sensitive tasks  
-- 🎮 Integrating LVGL UI in IoT devices with touchscreen  
-- 🤖 Real-time image detection on edge devices using YOLOv8  
+Currently working at a software house in Thailand, focusing on:
+
+- 🏪 Smart Kiosk & Line-of-Business Systems (Windows + Smart Card + APIs)  
+- 🧰 Cross-platform internal tools (Rust + Tauri for Windows/Linux)  
+- 🧱 Backend sync pipelines (Rust/Python + SQLx/PostgreSQL)  
+- 🖥️ Ubuntu-based kiosk apps, device services & automation  
+
+---
+
+## 🔍 Currently Exploring
+
+- ⚙️ Clean Architecture in Rust (modular services + SQLx + Axum)  
+- 🖥️ Building Tauri apps that run seamlessly on **Ubuntu kiosks**  
+- 🧰 Improving developer tooling with CLI automation & config managers  
 
 ---
 
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:rust.takashi@gmail.com)
-
