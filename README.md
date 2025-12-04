@@ -1,6 +1,6 @@
 ## 🧙‍♂️ Hi, I'm Takashi468
 
-I'm a Junior full-st(b)ack(end) Developer & R&D from Thailand.
+I'm a Junior Full Stack Developer from Thailand.
 
 🚀 I build cross-platform desktop apps, backend services, and internal tools — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Windows integrations**.
 
