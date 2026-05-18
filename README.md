@@ -1,18 +1,18 @@
 ## 🧙‍♂️ Hi, I'm Takashi468
 
-I'm a Junior Full Stack Developer from Thailand.
+I'm a Junior Full Stack / Embedded Systems Developer from Thailand.
 
-🚀 I build cross-platform desktop apps, backend services, and internal tools — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Windows integrations**.
+🚀 I build cross-platform desktop apps, backend services, and robust kiosk systems — focusing on **Rust**, **Tauri**, **Linux/Ubuntu (X11)**, and **Hardware integrations**.
 
 <img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif" />
 
 ###
 
-- 🦀 **Rust + Tauri Desktop Apps** (offline-first, secure, cross-platform)  
-- 🌐 **Backend & API Design** (Rust/Axum, Python/FastAPI)  
-- 🖥️ **Windows Applications** (WPF, XAML, device integration, smart card)  
-- 🐧 **Linux/Ubuntu Development** (services, automation scripts, kiosk systems)  
-- 🧩 **System Integration** (serial devices, smart card readers, printers)  
+- 🦀 **Rust + Tauri Ecosystem** (High-performance cross-platform apps, offline-first, light binary sizes)  
+- 🌐 **Backend & API Design** (Rust/Axum, Python/FastAPI, secure sync pipelines)  
+- 🐧 **Linux/Ubuntu Kiosk Systems** (Dedicated full-screen apps, X11 stability, systemd automation scripts)  
+- 🧩 **Hardware & System Integration** (Smart card readers, thermal printers, serial/USB device monitoring)  
+- 🛠️ **Cross-Compilation & DevOps** (Multi-architecture Docker builds, ARM64/SBC targeting)
 
 ---
 
@@ -21,39 +21,33 @@ I'm a Junior Full Stack Developer from Thailand.
 **Languages:**  
 - Rust  
 - Python  
-- JavaScript  
-- C#  
-- SQL  
 
 **Frameworks & Tools:**  
-- Tauri (Rust)  
-- Axum / FastAPI  
-- WPF (.NET)  
-- PostgreSQL  
+- Tauri / PySide6    
 - Linux/Ubuntu
-- Git  
 
 ---
 
 ## 💼 What I Work On
 
-Currently working at a software house in Thailand, focusing on:
+Currently developing and maintaining client-facing interactive systems and internal tools:
 
-- 🏪 Smart Kiosk & Line-of-Business Systems (Windows + Smart Card + APIs)  
-- 🧰 Cross-platform internal tools (Rust + Tauri for Windows/Linux)  
-- 🧱 Backend sync pipelines (Rust/Python + SQLx/PostgreSQL)  
-- 🖥️ Ubuntu-based kiosk apps, device services & automation  
+- 🏪 **Smart Kiosk & Queue Management Systems (BMA-Q):** Integrating hardware like smart card readers and printers with secure, reliable desktop frontends.  
+- 🧰 **Cross-Platform Internal Tools:** Leveraging Rust + Tauri for low-resource, high-performance tools on Windows and Linux.  
+- 🐳 **Embedded & SBC Deployments (DLT-TEST):** Developing and containerizing application environments for ARM64 architectures (Orange Pi, Banana Pi, etc.).  
 
 ---
 
 ## 🔍 Currently Exploring
 
-- ⚙️ Clean Architecture in Rust (modular services + SQLx + Axum)  
-- 🖥️ Building Tauri apps that run seamlessly on **Ubuntu kiosks**  
-- 🧰 Improving developer tooling with CLI automation & config managers  
-
+- 🖥️ **Tauri on Embedded Linux:** Optimizing Tauri applications to run seamlessly on lightweight Ubuntu/X11 kiosk setups.  
+- 🤖 **AI-Assisted Workflow Optimization:** Integrating AI tooling for efficient code refactoring and rapid prototyping.
 ---
 
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:rust.takashi@gmail.com)
+
+
+![snake gif](https://github.com/Takashi468/Takashi468/blob/output/github-snake.svg)
+
