@@ -2,7 +2,7 @@
 
 I'm a Junior Full Stack / Embedded Systems Developer from Thailand.
 
-🚀 I build cross-platform desktop apps, backend services, and robust kiosk systems — focusing on **Rust**, **Tauri**, **Linux/Ubuntu (X11)**, and **Hardware integrations**.
+🚀 I build cross-platform desktop apps, backend services, and robust kiosk systems — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Hardware integrations**.
 
 <img align="right" height="150" src="https://media.tenor.com/yWaLIc5J9WgAAAAj/momoi.gif" />
 
@@ -14,34 +14,6 @@ I'm a Junior Full Stack / Embedded Systems Developer from Thailand.
 - 🧩 **Hardware & System Integration** (Smart card readers, thermal printers, serial/USB device monitoring)  
 - 🛠️ **Cross-Compilation & DevOps** (Multi-architecture Docker builds, ARM64/SBC targeting)
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-- Rust  
-- Python  
-
-**Frameworks & Tools:**  
-- Tauri / PySide6    
-- Linux/Ubuntu
-
----
-
-## 💼 What I Work On
-
-Currently developing and maintaining client-facing interactive systems and internal tools:
-
-- 🏪 **Smart Kiosk & Queue Management Systems (BMA-Q):** Integrating hardware like smart card readers and printers with secure, reliable desktop frontends.  
-- 🧰 **Cross-Platform Internal Tools:** Leveraging Rust + Tauri for low-resource, high-performance tools on Windows and Linux.  
-- 🐳 **Embedded & SBC Deployments (DLT-TEST):** Developing and containerizing application environments for ARM64 architectures (Orange Pi, Banana Pi, etc.).  
-
----
-
-## 🔍 Currently Exploring
-
-- 🖥️ **Tauri on Embedded Linux:** Optimizing Tauri applications to run seamlessly on lightweight Ubuntu/X11 kiosk setups.  
-- 🤖 **AI-Assisted Workflow Optimization:** Integrating AI tooling for efficient code refactoring and rapid prototyping.
 ---
 
 ## 📫 Contact Me
