@@ -1,5 +1,8 @@
 ## 🧙‍♂️ Hi, I'm Takashi468
 
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
+
+
 I'm a Junior Full Stack / Embedded Systems Developer from Thailand.
 
 🚀 I build cross-platform desktop apps, backend services, and kiosk systems — focusing on **Rust**, **Tauri**, **Linux/Ubuntu**, and **Hardware integrations**.
